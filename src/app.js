@@ -7,14 +7,7 @@ import React from "react";
 // import MrKrabsCard from "./components/MrKrabsCard";
 
 function App() {
-  return (
-    <Wrapper>
-      <Title>Friends List</Title>
-      <SpongeBobCard />
-      <MrKrabsCard />
-      <SquidwardCard />
-    </Wrapper>
-  );
+  return;
 }
 
 export default App;
